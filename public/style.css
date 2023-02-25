@@ -1,0 +1,25 @@
+body {
+    font-family: 'Bree Serif', serif;
+    background-color: #50394c;
+}
+
+.cstm {
+    list-style: none;
+}
+
+.darkpurple {
+    background-color: #50394c;
+}
+.lightyellow {
+    background-color: #ffef96;
+}
+.darkpurpletxt {
+    color: #50394c;
+}
+.lightyellowtxt {
+    color: #ffef96;
+}
+.editHover:hover {
+background-color: black;
+color: #ffef96;
+}
